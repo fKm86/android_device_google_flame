@@ -25,7 +25,7 @@
    "branch":      "q10x"
  },
  {
-   "repository":  "craigacgomez/android_vendor_images",
+   "repository":  "gitlab.com/craigacgomez/android_vendor_images",
    "target_path": "vendor/images",
    "branch":      "q10x"
  },
